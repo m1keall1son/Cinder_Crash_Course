@@ -1,0 +1,40 @@
+
+libcinder.org for more info on getting started
+
+github.com/Cinder/
+
+open terminal
+
+//in terminal type:
+
+git clone https://github.com/cinder/cinder.git cinder
+
+cd cinder
+
+git checkout glNext
+
+git submodule init
+
+git submodule update
+
+cd xcode 
+
+open .
+
+/////// 
+
+in finder you will see the cinder.xcodeproj
+open this and press the build arrow
+
+/////
+
+cinder/tools/tinderbox-mac
+
+Tinderbox - use this to make new cinder projects!
+
+
+
+
+
+
+
